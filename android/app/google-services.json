@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302668146969",
+    "project_id": "islamic-kids-app-df5da",
+    "storage_bucket": "islamic-kids-app-df5da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302668146969:android:47789e19e8f899abb8bd88",
+        "android_client_info": {
+          "package_name": "com.example.fyp_islamic_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5DDyzmKGc3pIuXy65t0_CtDDv1pXHOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
