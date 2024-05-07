@@ -1,5 +1,10 @@
 # Islamic Educational App For Kids
 This is an Islamic Educational App for kids made Flutter framework.
+Tools
+## Flutter
+## GETX
+## Shared Preference
+## Al Quran Cloud API
 
 ![Screenshot_1715067295](https://github.com/MuhammadAfzalSario/Islamic-Educational-App-For-Kids/assets/92421652/f1e1db4d-5b2d-4447-8ba3-bb08dc620c85)
 
