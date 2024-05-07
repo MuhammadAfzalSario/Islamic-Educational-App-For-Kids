@@ -8,4 +8,7 @@
 
 ![Screenshot_1715067340](https://github.com/MuhammadAfzalSario/Islamic-Educational-App-For-Kids/assets/92421652/8b8c4ce3-5554-47fa-969a-64cb112d602b)
 
+![Screenshot_1715067347](https://github.com/MuhammadAfzalSario/Islamic-Educational-App-For-Kids/assets/92421652/9bd5e2eb-efec-474b-972d-67b54a1e0c2f)
+
+
 
