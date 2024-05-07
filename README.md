@@ -1,4 +1,4 @@
-# fyp_islamic_kids
+# Islamic Educational App For Kids
 
 A new Flutter project.
 
